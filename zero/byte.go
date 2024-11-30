@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"strconv"
 
-	"github.com/guregu/null/v5/internal"
+	"github.com/jasonlabz/null/internal"
 )
 
 // Byte is a nullable byte.

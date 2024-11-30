@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/guregu/null/v5/internal"
+	"github.com/jasonlabz/null/internal"
 )
 
 var (
